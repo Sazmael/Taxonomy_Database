@@ -18,4 +18,3 @@ join Especie on Genero.idGenero = Especie.Genero_idGenero
 where Nombre_Comun='Vaca';
 
 go
-
